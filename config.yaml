@@ -20,7 +20,7 @@ ignoreFiles: [
   ]
 
 # Default directory to build the completed site
-publishdir: "public"
+publishdir: "docs"
 
 params:
   # Project Descriptions
